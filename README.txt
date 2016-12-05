@@ -6,4 +6,3 @@ To Install, just drop the FASA folder into your GameData folder.
 
 The orginal license for FASA and its Launch Clamps is All Rights Reserved.
 This repackage will retain that license and at any moment, if Frizzank returns and wants this taken down, I will do so immediately. I will maintain these parts until then.
-
